@@ -1,4 +1,11 @@
-
 h1 {
+    text-align: center;
     color:blue;
+    font-family: Courier;
+}
+
+p {
+    text-align: left;
+    color:grey;
+    font-family:Arial
 }
